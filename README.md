@@ -17,4 +17,4 @@ Derive the IAM policy (i.e. JSON)?
 }
 ```
 Using the secret name prod/cart-service/credentials, derive a sensible ARN as the specific resource for access
-arn:aws:secretsmanager:us-east-1:255945442255:secret:prod/cart-service/credentials-exampleidfromconsole
+`arn:aws:secretsmanager:us-east-1:255945442255:secret:prod/cart-service/credentials-exampleidfromconsole`
